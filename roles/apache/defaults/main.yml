@@ -1,0 +1,6 @@
+---
+# defaults file for apache
+#HTTP Settings
+http_host: "debodaenboda.pe"
+http_conf: "debodadeboda.pe.conf"
+http_port: "80"

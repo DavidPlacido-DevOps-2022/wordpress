@@ -1,0 +1,7 @@
+---
+# defaults file for mysql
+#MySQL Settings
+mysql_root_password: "Password$1"
+mysql_db: "wpdb"
+mysql_user: "wpuser"
+mysql_password: "password"
